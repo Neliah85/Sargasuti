@@ -15,12 +15,19 @@
     transform: rotate(5deg);
     border-radius: 10px;
     border-style: solid;
+    float: right;
 }
 input{
     font-family:cursive; 
     font-weight: bold;
-    border-radius: 5px;   
+    border-radius: 5px; 
+    width: 50px;  
 }
 body{
     font-family: cursive;
+}
+
+ul{
+list-style-type:square
+
 }
